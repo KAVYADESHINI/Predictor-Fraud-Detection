@@ -1,4 +1,5 @@
 🏥**Healthcare provider Fraud Detection System**
+
 An end-to-end **Machine Learning project** to detect **fraudulent healthcare providers** by analyzing large-scale insurance claims data.
 The system helps identify potential **Fraud, Waste, and Abuse** (FWA) using supervised learning models and is deployed as an interactive web application.
 
