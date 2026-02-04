@@ -103,8 +103,9 @@ Implement MLOps practices (CI/CD, model monitoring)
 Improve UI and add explainability (SHAP values)
 
 👩‍💻**Author**
-Kavya Deshini
-Entry-Level Machine Learning Engineer
-📧 Email: kavyadeshini1224@gmail.com
+**Kavya Deshini**
+Entry-Level **Machine Learning Engineer**
 
-🔗 GitHub: https://github.com/KAVYADESHINI
+📧 **Email**: kavyadeshini1224@gmail.com
+
+🔗 **GitHub**: https://github.com/KAVYADESHINI
